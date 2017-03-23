@@ -1,15 +1,15 @@
 Some apps. 
 
 
-#运维支撑
-
-![image](itsm.gif)
-
-#D'Addario（乐器温湿度）
+#D'Addario（乐器温湿度监控）
 
 ![image](daddario.gif)
 
-#问卷评分
+#运维支撑APP
+
+![image](itsm.gif)
+
+#银行高管问卷评分APP
 
 ![image](score.gif)
 
@@ -17,7 +17,7 @@ Some apps.
 
 ![image](property.gif)
 
-#DLNA Sample
+#DLNA Sample（server, renderer, control ponit）
 
 https://github.com/dotfeng/DLNASampleWithCyberlink
 
