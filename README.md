@@ -1,6 +1,6 @@
 Some apps. 
 
-D'Addario（乐器温湿度监控）
+D'Addario（乐器温湿度监控）可在Google Play下载（https://play.google.com/store/apps/details?id=com.blustream.humiditrak）
 
 ![image](daddario.gif)
 
